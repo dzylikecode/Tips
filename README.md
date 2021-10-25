@@ -8,4 +8,4 @@
 
 # 教程
 > **[教程1](http://itmyhome.com/markdown/article/about/readme.html)**
->
+> **[教程2](https://seisman.github.io/how-to-write-makefile/overview.html)
