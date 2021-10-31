@@ -6,6 +6,16 @@
 > 如果不成功，可以写写脚本，通过自动启动脚本来打开程序 <br>
 > **[shell编辑网站](https://batsh.org/#)**,对应的github[地址](https://github.com/batsh-dev-team/Batsh)
 
-# 教程
-> **[教程1](http://itmyhome.com/markdown/article/about/readme.html)**
-> **[教程2](https://seisman.github.io/how-to-write-makefile/overview.html)
+<br>
+
+[开机自动登录](https://zhuanlan.zhihu.com/p/61262940)
+
+<br>
+<br>
+
+# Markdown
+> **[教程1](http://itmyhome.com/markdown/article/about/readme.html)**  <br>
+> **[教程2](https://seisman.github.io/how-to-write-makefile/overview.html)**
+
+# makefile
+> **[教程1](https://seisman.github.io/how-to-write-makefile/rules.html)**
